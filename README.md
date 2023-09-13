@@ -1,6 +1,6 @@
+
 # Please see this link below that demonstrates algorithmic solutions 
 https://annes-whiteboard.gitbook.io/whiteboard/
-
 # Social-Blog-Webapp
 Web application which logs a user in and loads their customized feed with content (image, blog pots)
 
