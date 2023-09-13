@@ -1,3 +1,4 @@
+
 # Social-Blog-Webapp
 Web application which logs a user in and loads their customized feed with content (image, blog pots)
 
@@ -13,4 +14,5 @@ Web application which logs a user in and loads their customized feed with conten
 
 
 **Message**: Front-end is mostly HTML with some bootstrap, Backend servers was built using Flask and SQL Alchemy.
-
+# Please see this link below that demonstrates algorithmic solutions 
+https://annes-whiteboard.gitbook.io/whiteboard/
